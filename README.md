@@ -2,7 +2,7 @@
 
 
 
-![image](https://github.com/andrewchucrute/BackEnd-Food/assets/103382295/f9ba1f7b-e615-4ded-b06e-48d5905896a3)
+![image](https://github.com/andrewchucrute/BackEndFoodExplorer/assets/103382295/0f565004-7b7d-4159-ae45-326ae0e8a558)
 
 
 
